@@ -19,7 +19,7 @@ This Python application retrieves and displays weather information (METAR and TA
 -   `requests` library (`pip install requests`)
 -   `python-metar` library (`pip install python-metar`)
 -   `python-dotenv` library (`pip install python-dotenv`)
--   A Slack workspace and a webhook URL (see [Slack Webhook Setup](#slack-webhook-setup)).
+-   A Slack workspace and a webhook URL.
 
 ## Usage
 
