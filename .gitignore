@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+*.egg-info/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Dependency directories (if applicable)
+venv/
+node_modules/
